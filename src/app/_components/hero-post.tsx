@@ -20,7 +20,7 @@ export function HeroPost({
   excerpt,
   author,
   slug,
-}: Props) {
+}: Readonly<Props>) {
   return (
     <section>
       <div className="mb-8 md:mb-16">

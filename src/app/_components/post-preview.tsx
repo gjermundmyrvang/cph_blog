@@ -20,7 +20,7 @@ export function PostPreview({
   excerpt,
   author,
   slug,
-}: Props) {
+}: Readonly<Props>) {
   return (
     <div>
       <div className="mb-5">
