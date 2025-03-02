@@ -10,10 +10,7 @@ ogImage:
   url: "/assets/blog/preview/leducation.jpg"
 ---
 
-- Bra stemning.
-- Bra løksuppe
-
-Ordinære priser
+## L'education Nationale
 
 ## Fantastisk vibe
 
