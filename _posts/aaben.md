@@ -2,7 +2,7 @@
 title: "Åben Bar Copenhagen"
 excerpt: "Tasty øl"
 coverImage: "/assets/blog/preview/aaben.jpg"
-date: "2025-03-02T05:35:07.322Z"
+date: "2025-02-22T05:35:07.322Z"
 author:
   name: Ola Nordrum Isachsen
   picture: "/assets/blog/authors/olapb.jpg"
