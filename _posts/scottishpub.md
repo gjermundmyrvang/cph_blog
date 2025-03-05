@@ -19,7 +19,7 @@ ogImage:
 
 **The Scottish Pub** leverer på det viktigste: skjermer overalt og full dekning av fotball. Akkurat som en skikkelig pub skal. Her er atmosfæren topp, og ølprisene skremmer ingen. Anbefaler en iskald Erdinger fra tappekrana – den gikk ned som smør.  
 
-Når dommeren blåser av, byttes fotball ut med livemusikk fra en sliten gubbe med kassegitar. Plutselig er det allsang, skravling og for de mest eventyrlystne – dansing. Og det beste? **Puben holder koken til langt etter leggetid**.  
+Når dommeren blåser av, byttes fotball ut med livemusikk fra en sliten gubbe med kassegitar. Plutselig er det allsang, skravling og for noen – dansing. Og det beste? **Puben holder koken til langt etter leggetid** (snakker av erfaring).  
 
 ![Bilde 1](/assets/scottish/1.jpg)  
 ![Bilde 2](/assets/scottish/2.jpg)  
