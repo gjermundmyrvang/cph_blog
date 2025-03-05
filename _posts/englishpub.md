@@ -2,7 +2,7 @@
 title: "The English Pub"
 excerpt: "Bra sted, men dårlig på å vise fotball"
 coverImage: "/assets/english/1.jpg"
-date: "2025-03-02T05:35:07.322Z"
+date: "2025-03-05T05:35:07.322Z"
 author:
   name: Gjermund Myrvang
   picture: "/assets/blog/authors/gjerrypb.jpeg"
