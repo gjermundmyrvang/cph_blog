@@ -30,3 +30,5 @@ Vi testet ut The Englissh Pub, men krise -> de viser ikke Arsenal? Lov å spørr
 - Brunt
 - God S
 - Grei pris
+
+![Øl på English](/assets/english/2.jpg)
