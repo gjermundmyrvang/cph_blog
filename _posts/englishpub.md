@@ -16,7 +16,7 @@ ogImage:
 - **Øl pris:** funker
 - **Terningkast:** 3
 
-## The Scottish Pub
+## The English Pub
 
 Det er Champions League, det er Arsenal vs. PSV! Så klart skal vi se denne kampen på pub!
 
