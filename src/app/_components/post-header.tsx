@@ -11,7 +11,7 @@ type Props = {
   author: Author;
 };
 
-export function PostHeader({ title, coverImage, date, author }: Props) {
+export function PostHeader({ title, coverImage, date, author }: Readonly<Props>) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
