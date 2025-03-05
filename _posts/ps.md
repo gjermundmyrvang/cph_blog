@@ -2,7 +2,7 @@
 title: "PS Bar & grill (PS)"
 excerpt: "'Det var den jakka'"
 coverImage: "/assets/ps/ps.jpeg"
-date: "2025-02-25T05:35:07.322Z"
+date: "2025-01-25T06:35:07.322Z"
 author:
   name: Ola Nordrum
   picture: "/assets/blog/authors/olapb.jpg"
