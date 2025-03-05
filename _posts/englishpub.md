@@ -20,7 +20,7 @@ ogImage:
 
 Det er Champions League, det er Arsenal vs. PSV! Så klart skal vi se denne kampen på pub!
 
-Vi testet ut The Englissh Pub, men krise -> de viser ikke Arsenal? Lov å spørre seg hvorfor de kaller seg English Pb, men viser ikke Arsenal? 
+Vi testet ut The English Pub, men krise -> de viser ikke Arsenal? Lov å spørre seg hvorfor de kaller seg English Pub, men ikke viser Arsenal? 
 
 **Mer minuspoeng:**
 - Har ikke guiness
