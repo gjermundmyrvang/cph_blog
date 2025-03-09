@@ -18,19 +18,19 @@ ogImage:
 
 ## Sola bjeffer, gjengen er kaffetyst -> Original Coffee
 
-Original Coffee har med hensikt plassert seg i solsteiken rett ved vannet. Det er rett og slett lokasjonen som gjør dette stedet til et bra sted å ta seg en kaffe og bolle. Her kan du sitte med liten eller stor gjeng og nyte kaffen i solsteiken og nyte utsikten utover Søerne. 
+Original Coffee har tydeligvis skjønt greia: Plasser en kafé midt i solsteiken, rett ved vannet, og folk kommer løpende. Og ja, det funker. Dette er stedet for å nyte en kaffe og en bolle (hvis du er heldig nok til å få tak i en) mens du ser ut over Søerne. Perfekt for både små og store gjenger som vil slappe av i sola med en god kopp brygg.
 
-De har et godt utvalg av kaffe og prisene er som man forventer. Det skal sies at i tillegg til gode uteplasser så hadde de relativt bra plasser innendørs også. 
+Kaffemenyen er solid, prisene som forventet, og hvis du skulle få nok av sola, finnes det faktisk helt brukbare plasser innendørs også.
 
-Kaffen var god, ingenting å klage på. Som nevnt, Original vinner på lokasjon, det er egentlig det📍
+Selve kaffen? Helt kurant – ingen grunn til klager. Men la meg være ærlig: Original Coffee vinner på lokasjon. Ferdig snakka📍
 
 ![Utenfor](/assets/original/2.jpeg)
 
 ![Inne](/assets/original/3.jpeg)
 
-## Anmerkninger
+## Feltnotater
 
-- ➪ Utsolgt for bakevarer før kl. 12?? Skjer med det
+- ➪ Utsolgt for bakevarer før kl. 12?? Hva er greia?
 - ➪ Litt turistfelle type sted (smørjete)
 - ➪ Betalte ekstra for stor kaffe og damen bak kassen både sølte kaffen og fylte kun delvis opp... **Skjerpings!**
 
