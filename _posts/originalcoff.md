@@ -20,7 +20,7 @@ ogImage:
 
 Original Coffee har med hensikt plassert seg i solsteiken rett ved vannet. Det er rett og slett lokasjonen som gjør dette stedet til et bra sted å ta seg en kaffe og bolle. Her kan du sitte med liten eller stor gjeng og nyte kaffen i solsteiken og nyte utsikten utover Søerne. 
 
-De har et godt utvalg av kaffe og prisene er som man forventer. Det skal sies at i tillegg til gode uteplasser så hadde de relativt bra plasser innendørs i tillegg. 
+De har et godt utvalg av kaffe og prisene er som man forventer. Det skal sies at i tillegg til gode uteplasser så hadde de relativt bra plasser innendørs også. 
 
 Kaffen var god, ingenting å klage på. Som nevnt, Original vinner på lokasjon, det er egentlig det📍
 

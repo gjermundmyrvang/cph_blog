@@ -22,6 +22,7 @@ ogImage:
 Lee's imponerte i dag ved å servere knallgod asiatisk effektivt, i god stil og til en god pris. På Lee's går man til disken og bestiller og betaler med en gang. Dette er noe jeg personlig syntes er behagelig og effektivt. Menyen til Lee's er ikke veldig stor, detter noe vi egentlig satt pris på ettersom det gjør det enklere å bestemme seg. Startet med å kjøpe en kald pepsi og fikk den servert i glass med isbiter -> solide +poeng med en gang. Vi satte oss ved vinduet og observerte trafikken utenfor. Jeg rakk nesten ikke å ta en sipp av brusen før maten kom rykende inn fra sia -> +poeng for å få maten raskt. 
 
 ![suppe](/assets/lee/2.JPG)
+
 ![crispy](/assets/lee/3.JPG)
 
 Ola bestilte en beef noodle soup (159DKK). Han bjeffer om at den var jævlig god og han ble god og mett. Jeg derimot, bestilte crispy duck (149DKK) som kom **fresende**, **rykende** og **boblende** inn på en tallerken i tillegg til en god porsjon ris på sia -> +poeng. Crispy duck var både crispy og sammen med en **nydelig glaze** var det en av de bedre jeg har spist. 
