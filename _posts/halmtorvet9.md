@@ -11,7 +11,7 @@ ogImage:
 ---
 
 ## Praktisk info
-- **Lokasjon:** []()
+- **Lokasjon:** [Halmtorvet 9A, 1700 København V](https://www.google.com/maps/place//data=!4m2!3m1!1s0x46525373225228b7:0x46489f3807cf46be?sa=X&ved=1t:8290&ictx=111)
 - **Stemning:** Relativt dårlig
 - **Pris:** Altfor stivt
 
