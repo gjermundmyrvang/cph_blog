@@ -28,7 +28,7 @@ Når dommeren blåser av, byttes fotball ut med livemusikk fra en sliten gubbe m
 
 Selv gode puber kan skjerpe seg:  
 
-- **1.** Skotsk pub uten Guinness? Hva skjer?  
+- **1.** Pub uten Guinness? Hva skjer?  
 - **2.** Én kamp med lyd, men høy musikk i bakgrunnen? Litt schizofrent opplegg.  
 
 ## Oppsummering  
