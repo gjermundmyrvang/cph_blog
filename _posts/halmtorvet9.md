@@ -27,6 +27,7 @@ Det viste seg derimot å ikke stemme, prisen var 65kr. For oss i Norge tilsvarer
 Som nevnt var vi der rett etter åpningstid, før stedet rakk å komme ordentlig i gang. Da vi passerte senere på kvelden, var stemningen en helt annen, fullt av mennesker og tilsynelatende god atmosfære. Derfor avskriver vi ikke H9 helt enda. Det fortjener en ny vurdering når vi besøker det på et senere tidspunkt.
 
 ## Oppsumering
+- **Terningkast:** 2
 - **Lokasjon:** Den er jo knallbra, rett ved kødbyen
 - **Atmosfære:** Startet lovende med god musikk, men endret plutselig til triste sanger. Suicidalt sted?
 - **Pris:** Krise, blir for dumt å betale 65kr for en becks fra krana i plastkopp
